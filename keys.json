@@ -1,11 +1,1 @@
-{
-  "ASTRUM-DEMO-KEY1-2024": {
-    "duration": "30 days",
-    "duration_seconds": 2592000,
-    "hwid": "",
-    "nickname": "",
-    "expires": 0,
-    "used": false,
-    "created_at": 1740787200
-  }
-}
+{}
