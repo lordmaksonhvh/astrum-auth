@@ -5,5 +5,12 @@
     "activated_at": 1773399569,
     "expires": 1773485969,
     "created_at": 1773399569
+  },
+  "SUB-AUTHOR-1773399746": {
+    "username": "Author",
+    "duration": 86400,
+    "activated_at": 1773399746,
+    "expires": 1773486146,
+    "created_at": 1773399746
   }
 }
