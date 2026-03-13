@@ -1,1 +1,16 @@
-{"test123":{"password":"test123","hwid":"","active_key":"TEST-KEY-2024","created_at":1773399569,"banned_until":0},"Author":{"password":"veryhardpassword1337","created_at":1773399661,"hwid":"3841699D-1A386DE8-CE9C08DC","banned_until":0}}
+{
+  "test123": {
+    "password": "test123",
+    "hwid": "",
+    "active_key": "TEST-KEY-2024",
+    "created_at": 1773399569,
+    "banned_until": 0
+  },
+  "Author": {
+    "password": "veryhardpassword1337",
+    "created_at": 1773399661,
+    "hwid": "3841699D-1A386DE8-CE9C08DC",
+    "banned_until": 0,
+    "active_key": "SUB-AUTHOR-1773399746"
+  }
+}
