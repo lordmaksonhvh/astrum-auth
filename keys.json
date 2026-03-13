@@ -1,16 +1,1 @@
-{
-  "TEST-KEY-2024": {
-    "username": "test123",
-    "duration": 86400,
-    "activated_at": 1773399569,
-    "expires": 1773485969,
-    "created_at": 1773399569
-  },
-  "SUB-AUTHOR-1773399746": {
-    "username": "Author",
-    "duration": 86400,
-    "activated_at": 1773399746,
-    "expires": 1773486146,
-    "created_at": 1773399746
-  }
-}
+{"SUB-AUTHOR-1773399746":{"expires":1773486146,"duration":86400,"username":"Author","created_at":1773399746,"activated_at":1773399746},"TEST-KEY-2024":{"expires":1773485969,"duration":86400,"username":"test123","created_at":1773399569,"activated_at":1773399569},"KEY-CE9C08DC":{"created_at":1773400417,"activated_at":0,"duration":86400,"expires":0}}
