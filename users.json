@@ -1,0 +1,9 @@
+{
+  "example_user": {
+    "password": "example_pass",
+    "hwid": "",
+    "active_key": null,
+    "created_at": 1740787200,
+    "banned_until": 0
+  }
+}
