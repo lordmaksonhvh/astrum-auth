@@ -1,9 +1,1 @@
-{
-  "123": {
-    "password": "123",
-    "hwid": "",
-    "active_key": "ASTRUM-TEST-1DAY-2024",
-    "created_at": 1773399242,
-    "banned_until": 0
-  }
-}
+{"123":{"password":"123123123123","created_at":1773399291,"hwid":"3841699D-1A386DE8-CE9C08DC","banned_until":0}}
