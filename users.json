@@ -1,1 +1,9 @@
-{}
+{
+  "test123": {
+    "password": "test123",
+    "hwid": "",
+    "active_key": "TEST-KEY-2024",
+    "created_at": 1773399569,
+    "banned_until": 0
+  }
+}
