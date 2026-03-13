@@ -1,1 +1,11 @@
-{}
+{
+  "ASTRUM-TEST-1DAY-2024": {
+    "duration": "1 day",
+    "duration_seconds": 86400,
+    "hwid": "",
+    "nickname": "123",
+    "expires": 1773485642,
+    "used": true,
+    "created_at": 1773399242
+  }
+}
